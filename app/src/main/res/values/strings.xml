@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">ALPC1</string>
+  <string name="main_encode">Encode</string>
+  <string name="main_decode">Decode</string>
+  <string name="main_result">Result:</string>
+
+  <string name="encode_instructions">Enter an integer in the range [-8192..+8191]:</string>
+  <string name="decode_instructions">Enter two hex strings in the range [0x00..0x7F]:</string>
+  <string name="decode_hi_byte_label">Hi byte:</string>
+  <string name="decode_lo_byte_label">Lo byte:</string>
+  <string name="decode_byte_prefix">0x</string>
+
+  <string name="validate_integer_message">Value must be between -8192 and +8191.</string>
+  <string name="validate_hex_string_message">Hex strings must be between 0x00 and 0x7F.</string>
+</resources>
